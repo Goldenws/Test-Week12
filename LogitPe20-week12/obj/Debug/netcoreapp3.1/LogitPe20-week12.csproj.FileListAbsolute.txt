@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\bin\Debug\netcoreapp3.1\LogitPe20-week12.exe
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\bin\Debug\netcoreapp3.1\LogitPe20-week12.deps.json
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\bin\Debug\netcoreapp3.1\LogitPe20-week12.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\bin\Debug\netcoreapp3.1\LogitPe20-week12.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\bin\Debug\netcoreapp3.1\LogitPe20-week12.dll
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\bin\Debug\netcoreapp3.1\LogitPe20-week12.pdb
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\obj\Debug\netcoreapp3.1\LogitPe20-week12.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\obj\Debug\netcoreapp3.1\LogitPe20-week12.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\obj\Debug\netcoreapp3.1\LogitPe20-week12.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\obj\Debug\netcoreapp3.1\LogitPe20-week12.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\obj\Debug\netcoreapp3.1\LogitPe20-week12.dll
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\obj\Debug\netcoreapp3.1\LogitPe20-week12.pdb
+C:\Users\Roland Strod\source\repos\LogitPe20-week12\LogitPe20-week12\obj\Debug\netcoreapp3.1\LogitPe20-week12.genruntimeconfig.cache

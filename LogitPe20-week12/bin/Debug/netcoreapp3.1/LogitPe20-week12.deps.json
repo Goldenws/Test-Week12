@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LogitPe20-week12/1.0.0": {
+        "runtime": {
+          "LogitPe20-week12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogitPe20-week12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
